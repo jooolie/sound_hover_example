@@ -1,0 +1,22 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^8.1.0",
+    "p5": "^0.8.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-p5-wrapper": "0.0.4",
+    "react-tone": "^1.1.1"
+  }
+}

@@ -1,0 +1,9 @@
+import Nav from '../comps/nav'
+import Link from 'next/link'
+
+export default function Stream() {
+return (
+
+)
+}
+
